@@ -1,0 +1,21 @@
+div{
+    display:inline-block;
+    width:200px;
+    height:200px;
+    background-color: aqua;
+    border:1px solid black;
+}
+#box3{
+    position:absolute;
+    left:50px;
+    top:100px;
+}
+#box4{
+    position:sticky;
+    top:10px;
+}
+.wrapper{
+    height:1000px;
+    width:100vw;
+    background-color: yellow;
+}
